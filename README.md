@@ -7,8 +7,10 @@ Say no to webview. Now.
 Put the following code into your website (anywhere is OK):
 
 ```html
-<script src="https://rawgit.com/Jamesits/NoWebview/master/nowebview/nowebview.js"></script>
+<script src="https://shadowrz.github.io/NoWebview/nowebview/nowebview.js"></script>
 ```
+
+[Example](https://shadowrz.github.io/NoWebview/nowebview/test.html)
 
 ## Compatibility
 
